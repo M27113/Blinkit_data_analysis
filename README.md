@@ -1,6 +1,6 @@
 # Blinkit_data_analysis
 ## Introduction
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations using Python, Power BI and MySQL
+The main goal of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations using Python, Power BI and MySQL
 
 ## KPI’s Requirements
 1. Total Sales: The overall revenue generated from all items sold. 
