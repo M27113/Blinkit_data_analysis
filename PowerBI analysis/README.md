@@ -6,6 +6,6 @@ You can find the file for the dashboard here: [`BLINKIT.pbix`](BLINKIT.pbix).
 
 ## Dashboard Overview
  
-![Dashboard](main/PowerBI%20analysis/Dashboard.png)
+![Dashboard](/Dashboard.png)
 
 This is the main dashboard. It showcases key KPIs like total sales, average sales, number of items and average rating to give a quick understanding of what's happening at a glance.
