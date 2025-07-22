@@ -3,9 +3,9 @@ This dashboard was created to conduct a comprehensive analysis of Blinkit's sale
 
 ### Dashboard File
 You can find the file for the dashboard here: [`BLINKIT.pbix`](BLINKIT.pbix).  
----
 
 ## Dashboard Overview
-![Dashboard.png](/Dashboard.png)  
+ 
+![Dashboard](main/PowerBI%20analysis/Dashboard.png)
 
 This is the main dashboard. It showcases key KPIs like total sales, average sales, number of items and average rating to give a quick understanding of what's happening at a glance.
